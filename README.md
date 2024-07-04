@@ -36,5 +36,5 @@ This App is not available on the App Store.
 - Learn efficient state management using @State, @StateObject, and @Published in SwiftUI.
 
 ## Developed By:
-Ritik Raman - ritikraman01@gmail.com
-The main purpose behind this project is to practice some iOS basics, so feel free to contribute!
+- Ritik Raman - ritikraman01@gmail.com
+- The main purpose behind this project is to practice some iOS basics, so feel free to contribute!
